@@ -1,0 +1,85 @@
+<div>
+
+    <h2>Units</h2>
+
+    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#saveUnitModal" ng-click="clear()">
+        <span class="glyphicon glyphicon-flash"></span> Create a new Unit
+    </button>
+    <div class="modal fade" id="saveUnitModal" tabindex="-1" role="dialog" aria-labelledby="myUnitLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form name="form" role="form" novalidate
+                      class="ng-scope ng-invalid ng-invalid-required ng-dirty ng-valid-minlength"
+                      ng-submit="create()">
+
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
+                                ng-click="clear()">&times;</button>
+                        <h4 class="modal-title" id="myUnitLabel">Create or edit a Unit</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>ID</label>
+                            <input type="text" class="form-control" name="id"
+                                   ng-model="unit.id" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="text" class="form-control"
+                                   ng-model="unit.name">
+                        </div>
+
+                        <div class="form-group">
+                            <label>organization</label>
+                            <select class="form-control" ng-model="unit.organization.id" ng-options="organization.id as organization.id for organization in organizations">
+                            </select>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="clear()">
+                            <span class="glyphicon glyphicon-ban-circle"></span> Cancel
+                        </button>
+                        <button type="submit" ng-disabled="form.$invalid" class="btn btn-primary">
+                            <span class="glyphicon glyphicon-save"></span> Save
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>organization</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="unit in units">
+                    <td>{{unit.id}}</td>
+                    <td>{{unit.name}}</td>
+                    <td>{{unit.organization.id}}</td>
+                    <td>
+                        <button type="submit"
+                                ng-click="update(unit.id)"
+                                class="btn btn-default">
+                            <span class="glyphicon glyphicon-pencil"></span> Edit
+                        </button>
+                        <button type="submit"
+                                ng-click="delete(unit.id)"
+                                class="btn btn-danger">
+                            <span class="glyphicon glyphicon-remove-circle"></span> Delete
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

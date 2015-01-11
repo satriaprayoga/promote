@@ -1,0 +1,113 @@
+<div>
+
+    <h2>Employees</h2>
+
+    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#saveEmployeeModal" ng-click="clear()">
+        <span class="glyphicon glyphicon-flash"></span> Create a new Employee
+    </button>
+    <div class="modal fade" id="saveEmployeeModal" tabindex="-1" role="dialog" aria-labelledby="myEmployeeLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form name="form" role="form" novalidate
+                      class="ng-scope ng-invalid ng-invalid-required ng-dirty ng-valid-minlength"
+                      ng-submit="create()">
+
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
+                                ng-click="clear()">&times;</button>
+                        <h4 class="modal-title" id="myEmployeeLabel">Create or edit a Employee</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>ID</label>
+                            <input type="text" class="form-control" name="id"
+                                   ng-model="employee.id" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="text" class="form-control"
+                                   ng-model="employee.name">
+                        </div>
+                        <div class="form-group">
+                            <label>Nip</label>
+                            <input type="text" class="form-control"
+                                   ng-model="employee.nip">
+                        </div>
+                        <div class="form-group">
+                            <label>BirthDate</label>
+                            <input type="date" class="form-control"
+                                   ng-model="employee.birthDate">
+                        </div>
+                        <div class="form-group">
+                            <label>BirthPlace</label>
+                            <input type="text" class="form-control"
+                                   ng-model="employee.birthPlace">
+                        </div>
+                        <div class="form-group">
+                            <label>Title</label>
+                            <input type="text" class="form-control"
+                                   ng-model="employee.title">
+                        </div>
+
+                        <div class="form-group">
+                            <label>unit</label>
+                            <select class="form-control" ng-model="employee.unit.id" ng-options="unit.id as unit.id for unit in units">
+                            </select>
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="clear()">
+                            <span class="glyphicon glyphicon-ban-circle"></span> Cancel
+                        </button>
+                        <button type="submit" ng-disabled="form.$invalid" class="btn btn-primary">
+                            <span class="glyphicon glyphicon-save"></span> Save
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Nip</th>
+                    <th>BirthDate</th>
+                    <th>BirthPlace</th>
+                    <th>Title</th>
+                    <th>unit</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="employee in employees">
+                    <td>{{employee.id}}</td>
+                    <td>{{employee.name}}</td>
+                    <td>{{employee.nip}}</td>
+                    <td>{{employee.birthDate}}</td>
+                    <td>{{employee.birthPlace}}</td>
+                    <td>{{employee.title}}</td>
+                    <td>{{employee.unit.id}}</td>
+                    <td>
+                        <button type="submit"
+                                ng-click="update(employee.id)"
+                                class="btn btn-default">
+                            <span class="glyphicon glyphicon-pencil"></span> Edit
+                        </button>
+                        <button type="submit"
+                                ng-click="delete(employee.id)"
+                                class="btn btn-danger">
+                            <span class="glyphicon glyphicon-remove-circle"></span> Delete
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

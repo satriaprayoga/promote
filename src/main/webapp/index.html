@@ -50,6 +50,9 @@
                                 </span>
                             </a>
                             <ul class="dropdown-menu" ng-controller="MenuController">
+                                <li ng-switch-when="true"><a href="#/organization"><span class="glyphicon glyphicon-asterisk"></span>&nbsp;organization</a></li>
+                                <li ng-switch-when="true"><a href="#/unit"><span class="glyphicon glyphicon-asterisk"></span>&nbsp;unit</a></li>
+                                <li ng-switch-when="true"><a href="#/employee"><span class="glyphicon glyphicon-asterisk"></span>&nbsp;employee</a></li>
                                 <!-- JHipster will add entities to the menu here -->
                             </ul>
                         </li>
@@ -172,6 +175,15 @@
         <script src="bower_components/bootstrap-sass/vendor/assets/javascripts/bootstrap/scrollspy.js"></script>
         <script src="bower_components/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js"></script>
         <script src="bower_components/bootstrap-sass/vendor/assets/javascripts/bootstrap/tab.js"></script>
+        <script src="scripts/organization/router_organization.js"></script>
+        <script src="scripts/organization/controller_organization.js"></script>
+        <script src="scripts/organization/service_organization.js"></script>
+        <script src="scripts/unit/router_unit.js"></script>
+        <script src="scripts/unit/controller_unit.js"></script>
+        <script src="scripts/unit/service_unit.js"></script>
+        <script src="scripts/employee/router_employee.js"></script>
+        <script src="scripts/employee/controller_employee.js"></script>
+        <script src="scripts/employee/service_employee.js"></script>
         <!-- endbuild -->
 </body>
 </html>
