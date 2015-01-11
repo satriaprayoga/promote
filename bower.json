@@ -17,7 +17,19 @@
     "angular-dynamic-locale": "0.1.21",
     "angular-i18n": "1.2.26",
     "swagger-ui": "2.0.18",
-    "angular-cache-buster": "0.4.3"
+    "angular-cache-buster": "0.4.3",
+    "angular-ui-select":"0.9.5",
+    "blockui":"2.70",
+    "bootstrap-hover-dropdown":"2.0.11",
+    "bootstrap-switch":"3.2.2",
+    "font-awesome":"4.2.0",
+    "jquery-migrate":"1.2.1",
+    "jquery-ui":"1.11.2",
+    "jquery.cookie":"1.4.1",
+    "jquery.uniform":"2.1.2",
+    "select2":"3.5.2",
+    "simple-line-icons":"0.1.1",
+    "angular-bootstrap":"0.12.0"
   },
   "devDependencies": {
     "angular-mocks": "1.2.26",

@@ -1,0 +1,1822 @@
+id;name;organization_id
+1;Sekretariat;1
+2;Bidang Pendidikan Dasar;2
+3;Bidang Pendidikan Menengah;3
+4;Bidang Pendidikan Non Formal;4
+5;Bidang Sarpras;5
+6;Seksi Bina Pendidik SMA/SMK;3
+7;Seksi Bina Pendidik TK/SD/SMP;2
+8;Seksi Pendidikan Kesetaraan;4
+9;Seksi Pendidikan Masyarakat;4
+10;Seksi Pendidikan SMA;3
+11;Seksi Pendidikan SMK;3
+12;Seksi Pendidikan SMP;2
+13;Seksi Pendidikan TK dan SD;2
+14;Seksi Pendidikan Usia Dini;4
+15;Seksi Sarpras SMA/SMK;5
+16;Seksi Sarpras SMP;5
+17;Seksi Sarpras TK/SD;5
+18;Sub bag Program dan Pelaporan;1
+19;Sub Bagian Keuangan;1
+20;Sub Bagian Umum dan Kepegawaian;1
+21;TK Negeri Pembina;6
+22;SDN Bedahan 01 ;6
+23;SDN Bedahan 02;6
+24;SDN Buni Sari;6
+25;SDN Cibinong 01;6
+26;SDN Cibinong 02;6
+27;SDN Cibinong 03;6
+28;SDN Cibinong 04;6
+29;SDN Cibinong 05;6
+30;SDN Cibinong Raya;6
+31;SDN Cikaret 01;6
+32;SDN Cikaret 02;6
+33;SDN Cikaret Jaya;6
+34;SDN Cipayung 01;6
+35;SDN Cipayung 02;6
+36;SDN Cirimekar 01;6
+37;SDN Cirimekar 02;6
+38;SDN Ciriung 01;6
+39;SDN Ciriung 02 ;6
+40;SDN Ciriung 03;6
+41;SDN Ciriung 04;6
+42;SDN Ciriung 06;6
+43;SDN Citatah Jaya;6
+44;SDN Curug;6
+45;SDN Curug ;6
+46;SDN Curug Raya;6
+47;SDN Kampung Bulak;6
+48;SDN Kandang Roda;6
+49;SDN Karadenan;6
+50;SDN Karadenan Kaum;6
+51;SDN Kaum Pandak 02;6
+52;SDN Kaum Pandak 04;6
+53;SDN Kaum Pandak 05;6
+54;SDN Kedung Umpal;6
+55;SDN Keranji 01;6
+56;SDN Keranji 02;6
+57;SDN Keranji 04;6
+58;SDN Kopi Jaya;6
+59;SDN Kramat Raya;6
+60;SDN Mekar Jaya 01;6
+61;SDN Mekar Jaya 02;6
+62;SDN Muara Beres;6
+63;SDN Nanggewer 01;6
+64;SDN Nanggewer 02;6
+65;SDN Nanggewer 03;6
+66;SDN Nanggewer 04;6
+67;SDN Nanggewer Mekar;6
+68;SDN Pabuaran 01;6
+69;SDN Pabuaran 02 ;6
+70;SDN Pabuaran 03;6
+71;SDN Pabuaran 04;6
+72;SDN Pabuaran 05;6
+73;SDN Pabuaran 07;6
+74;SDN Padurenan Jaya;6
+75;SDN Pajeleran;6
+76;SDN Pakansari 01;6
+77;SDN Pakansari 02;6
+78;SDN Pakansari 03;6
+79;SDN Pakansari 04;6
+80;SDN Panineungan ;6
+81;SDN Pondok Rajeg;6
+82;SDN Sampora 01;6
+83;SDN Sampora 02;6
+84;SDN Sanggar Jaya;6
+85;SDN Tarikolot 01;6
+86;SDN Tarikolot 02;6
+87;SDN Totogan;6
+88;SDN Bojongkulur 01;7
+89;SDN Bojongkulur 02;7
+90;SDN Bojongkulur 03;7
+91;SDN Bojongkulur 04;7
+92;SDN Bojongnangka 01;7
+93;SDN Bojongnangka 02;7
+94;SDN Bojongnangka 04;7
+95;SDN Bojongnangka 05;7
+96;SDN Ciangsana 01;7
+97;SDN Ciangsana 02;7
+98;SDN Ciangsana 03;7
+99;SDN Ciangsana 04;7
+100;SDN Ciangsana 05;7
+101;SDN Cicadas 01;7
+102;SDN Cicadas 02 ;7
+103;SDN Cicadas 03;7
+104;SDN Cicadas 04;7
+105;SDN Cicadas 05;7
+106;SDN Cicadas 06;7
+107;SDN Cikeas Udik 01;7
+108;SDN Cikeas Udik 02;7
+109;SDN Cikeas Udik 03;7
+110;SDN Cikeas Udik 04;7
+111;SDN Cikeas Udik 05;7
+112;SDN Cikuda 01;7
+113;SDN Cikuda 02;7
+114;SDN Cikuda 03;7
+115;SDN Gunung Putri 01;7
+116;SDN Gunung Putri 02;7
+117;SDN Gunung Putri 03;7
+118;SDN Gunung Putri 04;7
+119;SDN Gunung Putri 05;7
+120;SDN Gunung Putri 06;7
+121;SDN Karanggan 01;7
+122;SDN Karanggan 02;7
+123;SDN Karanggan 03;7
+124;SDN Karanggan 04;7
+125;SDN Kedep 01;7
+126;SDN Nagrak 01 ;7
+127;SDN Nagrak 02;7
+128;SDN Nagrak 03;7
+129;SDN Nagrak 04;7
+130;SDN Nagrak 05;7
+131;SDN Nagrak 06;7
+132;SDN Parung Tanjung 01;7
+133;SDN Parung Tanjung 02;7
+134;SDN Tlajung Udik 01;7
+135;SDN Tlajung Udik 02;7
+136;SDN Tlajung Udik 03;7
+137;SDN Tlajung Udik 04;7
+138;SDN Tlajung Udik 05;7
+139;SDN Tlajung Udik 06;7
+140;SDN Wanaherang 01;7
+141;SDN Wanaherang 02;7
+142;SDN Wanaherang 03;7
+143;SDN Wanaherang 04;7
+144;SDN Wanaherang 05;7
+145;SDN Wanaherang 06;7
+146;SDN Wanaherang 07;7
+147;SDN Citeureup 01;8
+148;SDN Citeureup 02;8
+149;SDN Citeureup 03;8
+150;SDN Citeureup 04;8
+151;SDN Citeureup 05;8
+152;SDN Citeureup 06;8
+153;SDN Citeureup 07;8
+154;SDN Dukuh;8
+155;SDN Gunung Sari 01;8
+156;SDN Gunung Sari 02;8
+157;SDN Gunung Sari 03;8
+158;SDN Gunung Sari 04;8
+159;SDN Hambalang 01;8
+160;SDN Hambalang 02;8
+161;SDN Hambalang 03;8
+162;SDN Hambalang 04;8
+163;SDN Hambalang 05;8
+164;SDN Karang Asem  01;8
+165;SDN Karang Asem Barat 03;8
+166;SDN Karang Asem Timur 01;8
+167;SDN Karang Asem Timur 02;8
+168;SDN Lanbau 01;8
+169;SDN Lanbau 02;8
+170;SDN Leuwinutug 01;8
+171;SDN Leuwinutug 02;8
+172;SDN Leuwinutug 03;8
+173;SDN Leuwinutug 04;8
+174;SDN Leuwinutug 05;8
+175;SDN Muhara 01;8
+176;SDN Muhara 02;8
+177;SDN Puspanegara 01;8
+178;SDN Puspanegara 02;8
+179;SDN Puspanegara 03;8
+180;SDN Puspanegara 04;8
+181;SDN Puspanegara 05;8
+182;SDN Puspanegara 06;8
+183;SDN Puspanegara 07;8
+184;SDN Puspanegara 08;8
+185;SDN Puspasari 01;8
+186;SDN Sangkali;8
+187;SDN Sanja 01;8
+188;SDN Sukahati 01;8
+189;SDN sukahati 03;8
+190;SDN Tajur 01;8
+191;SDN Tajur 02;8
+192;SDN Tajur 03 ;8
+193;SDN Tajur 04;8
+194;SDN Tajur 05;8
+195;SDN Tajur 06;8
+196;SDN Tajur 07;8
+197;SDN Tarikolot 01;8
+198;SDN Tarikolot 02;8
+199;SDN Tarikolot 03;8
+200;SDN Tarikolot 04;8
+201;SDN Tarikolot 05;8
+202;SDN Tarikolot 06;8
+203;SDN Bojong;9
+204;SDN Cantang Jaya;9
+205;SDN Cijujung 01;9
+206;SDN Cijujung 02;9
+207;SDN Cijujung 03;9
+208;SDN Cijujung Tengah;9
+209;SDN Cikeas 01;9
+210;SDN Cikeas 02;9
+211;SDN Cikeas 03;9
+212;SDN Cikeas 04;9
+213;SDN Cikeas 05;9
+214;SDN Cilebut 01;9
+215;SDN Cilebut 02;9
+216;SDN Cilebut 03;9
+217;SDN Cilebut 05;9
+218;SDN Ciluar 01;9
+219;SDN Ciluar 02;9
+220;SDN Cimandala 01;9
+221;SDN Cimandala 02;9
+222;SDN Cimandala 03;9
+223;SDN Gunung Geulis 01;9
+224;SDN Gunung Geulis 02;9
+225;SDN Jambu;9
+226;SDN Katulampa 04;9
+227;SDN Kebon Kelapa;9
+228;SDN Kedunghalang 03;9
+229;SDN Kedunghalang Serikat 01;9
+230;SDN Kedunghalang Serikat 02;9
+231;SDN Nagrak 01;9
+232;SDN Nagrak 02;9
+233;SDN Parakan Kembang;9
+234;SDN Pasir Bagade;9
+235;SDN Pasir Laja 01;9
+236;SDN Pasir Laja 02;9
+237;SDN Pasir Laja 03;9
+238;SDN Patahunan 01;9
+239;SDN Patahunan 02;9
+240;SDN Sasanawiyata 01;9
+241;SDN Sasanawiyata 02;9
+242;SDN Sukaraja 01;9
+243;SDN Sukaraja 02;9
+244;SDN Sukaraja 03;9
+245;SDN Sukatani;9
+246;SDN Babakan Madang 01;10
+247;SDN Babakan Madang 02;10
+248;SDN Babakan Madang 03;10
+249;SDN Babakan Madang 04;10
+250;SDN Babakan Madang 05;10
+251;SDN Babakan Madang 06;10
+252;SDN Bojongkoneng 01;10
+253;SDN Bojongkoneng 02;10
+254;SDN Bojongkoneng 03;10
+255;SDN Bojongkoneng 04;10
+256;SDN Bojongkoneng 05;10
+257;SDN Bojongkoneng 06;10
+258;SDN Cijayanti 01;10
+259;SDN Cijayanti 02;10
+260;SDN Cijayanti 03;10
+261;SDN Cijayanti 04;10
+262;SDN Cijayanti 05;10
+263;SDN Cijayanti 06;10
+264;SDN Cijayanti 07;10
+265;SDN Cipambuan;10
+266;SDN Citaringgul 01;10
+267;SDN Citaringgul 02;10
+268;SDN Citaringgul 03;10
+269;SDN Citaringgul 04;10
+270;SDN Citaringgul 05;10
+271;SDN Citaringgul 06;10
+272;SDN Kadumanggu 01;10
+273;SDN Kadumanggu 02;10
+274;SDN Kadumanggu 03;10
+275;SDN Kadumanggu 04;10
+276;SDN Kadumanggu 05;10
+277;SDN Kadumanggu 06;10
+278;SDN Karang Tengah 01;10
+279;SDN Karang Tengah 02;10
+280;SDN Karang Tengah 03;10
+281;SDN Karang Tengah 04;10
+282;SDN Karang Tengah 05;10
+283;SDN Karang Tengah 06;10
+284;SDN Karang Tengah 07;10
+285;SDN Sentul 01;10
+286;SDN Sentul 02;10
+287;SDN Sentul 03;10
+288;SDN Sentul 04;10
+289;SDN Sentul 05;10
+290;SDN Balekambang 01;11
+291;SDN Balekambang 02;11
+292;SDN Balekambang 03;11
+293;SDN Bendungan;11
+294;SDN Cibodas 01;11
+295;SDN Cibodas 02;11
+296;SDN Citra Indah Sukamaju;11
+297;SDN Dampyak;11
+298;SDN Dayeuh;11
+299;SDN Jonggol 01;11
+300;SDN Jonggol 02;11
+301;SDN Jonggol 03;11
+302;SDN Jonggol 04;11
+303;SDN Jonggol 05;11
+304;SDN Jonggol 06;11
+305;SDN Malati;11
+306;SDN Mengker;11
+307;SDN Raweuy;11
+308;SDN Satus;11
+309;SDN Singajaya 01;11
+310;SDN Singajaya 02;11
+311;SDN Singajaya 03;11
+312;SDN Singajaya 04;11
+313;SDN Singajaya 05;11
+314;SDN Singajaya 06;11
+315;SDN Singasari 01;11
+316;SDN Singasari 02;11
+317;SDN Singasari 03;11
+318;SDN Sirnagalih 01;11
+319;SDN Sirnagalih 02;11
+320;SDN Sirnagalih 03;11
+321;SDN Sirnagalih 04;11
+322;SDN Sodong 01;11
+323;SDN Sodong 02;11
+324;SDN Sukaati;11
+325;SDN Sukamaju 01;11
+326;SDN Sukamaju 02;11
+327;SDN Sukamaju 03;11
+328;SDN Sukamaju 04;11
+329;SDN Sukamaju 06;11
+330;SDN Sukamaju 07;11
+331;SDN Sukamaju 08;11
+332;SDN Sukamanah 01;11
+333;SDN Sukamanah 02;11
+334;SDN Sukanegara 01;11
+335;SDN Sukanegara 02;11
+336;SDN Sukasirna 01;11
+337;SDN Sukasirna 02;11
+338;SDN Sukasirna 03;11
+339;SDN Sukasirna 04;11
+340;SDN Sukasirna 05;11
+341;SDN Weninggalih 01;11
+342;SDN Weninggalih 02;11
+343;SDN Weninggalih 03;11
+344;SDN Babakan 01;12
+345;SDN Babakan 02;12
+346;SDN Babakan 03;12
+347;SDN Babakan 04;12
+348;SDN Cibeureum;12
+349;SDN Cileungsi 01;12
+350;SDN Cileungsi 02;12
+351;SDN Cileungsi 03;12
+352;SDN Cileungsi 04;12
+353;SDN Cileungsi 05;12
+354;SDN Cileungsi 06;12
+355;SDN Cileungsi 07;12
+356;SDN Cileungsi 08;12
+357;SDN Cileungsi 09;12
+358;SDN Cileungsi 10;12
+359;SDN Cinyosog 01 ;12
+360;SDN Cinyosog 02;12
+361;SDN Cipenjo;12
+362;SDN Cipeucang 01;12
+363;SDN Cipeucang 02;12
+364;SDN Cipeucang 03;12
+365;SDN Cipicung 01;12
+366;SDN Cipicung 02;12
+367;SDN Cipicung 03;12
+368;SDN Cipicung 04;12
+369;SDN Cipicung 05;12
+370;SDN Ciuncal ;12
+371;SDN Gandoang 01;12
+372;SDN Gandoang 02;12
+373;SDN Gandoang 03;12
+374;SDN Kampung Sawah 01;12
+375;SDN Kampung Sawah 02;12
+376;SDN Kubang 01;12
+377;SDN Kubang 02;12
+378;SDN Limusnunggal 01;12
+379;SDN Limusnunggal 02;12
+380;SDN Limusnunggal 03;12
+381;SDN Mampir;12
+382;SDN Nyalindung;12
+383;SDN Palasari 01;12
+384;SDN Palasari 02 ;12
+385;SDN Palasari 03;12
+386;SDN Pasir Angin 01;12
+387;SDN Pasir Angin 02;12
+388;SDN Pasir Angin 03;12
+389;SDN Pasir Angin 04;12
+390;SDN Pasir Angin 05;12
+391;SDN Pasir Angin 06;12
+392;SDN Rawaendah;12
+393;SDN Rawailat;12
+394;SDN Sarongge;12
+395;SDN Situsari 01;12
+396;SDN Situsari 02;12
+397;SDN Tunggilis;12
+398;SDN Babakan Cangkudu;13
+399;SDN Babakan Kiara;13
+400;SDN Babakan Raden 01;13
+401;SDN Babakan Raden 02;13
+402;SDN Babakankiara;13
+403;SDN Bantar Kuning;13
+404;SDN Cariu 01;13
+405;SDN Cariu 02;13
+406;SDN Cariu 03;13
+407;SDN Cibatutiga;13
+408;SDN Cibojong;13
+409;SDN Cikutamahi 01;13
+410;SDN Cikutamahi 02;13
+411;SDN Cikutamahi 03;13
+412;SDN Jagatamu;13
+413;SDN Karangsari;13
+414;SDN Mekar Wangi;13
+415;SDN Neglabuana;13
+416;SDN Saluyu;13
+417;SDN Sari Mekar;13
+418;SDN Selawangi 01;13
+419;SDN Selawangi 02;13
+420;SDN Selawangi 03;13
+421;SDN Sukaati;13
+422;SDN Tanggulun;13
+423;SDN Taruna Mulya;13
+424;SDN Tegal Batu;13
+425;SDN Tegal Benteng;13
+426;SDN Tegal Panjang;13
+427;SDN Arca;14
+428;SDN Cibadak 01;14
+429;SDN Cibadak 02;14
+430;SDN Cibadak 03;14
+431;SDN Cimenyan;14
+432;SDN Gunung Batu;14
+433;SDN Menteng;14
+434;SDN Pabuaran 01;14
+435;SDN Pabuaran 02;14
+436;SDN Pabuaran 03;14
+437;SDN Sirna Bakti;14
+438;SDN Sirnajaya 01;14
+439;SDN Sirnajaya 02;14
+440;SDN Sirnajaya 03;14
+441;SDN Sirnajaya 04;14
+442;SDN Sukaharja 01;14
+443;SDN Sukaharja 02;14
+444;SDN Sukamakmur 01;14
+445;SDN Sukamakmur 02;14
+446;SDN Sukamakmur 03;14
+447;SDN Sukamulya 01;14
+448;SDN Sukamulya 02;14
+449;SDN Sukaresmi 01;14
+450;SDN Sukaresmi 02;14
+451;SDN Sukaresmi 03;14
+452;SDN Sukawangi 01;14
+453;SDN Sukawangi 02;14
+454;SDN Sukawangi 03;14
+455;SDN Tinggar Jaya;14
+456;SDN Wargajaya;14
+457;SDN Bojong Sempu 01;15
+458;SDN Bojong Sempu 02;15
+459;SDN Bojong Sempu 03;15
+460;SDN Cogreg 01  ;15
+461;SDN Cogreg 02;15
+462;SDN Cogreg 03 ;15
+463;SDN Gunung Leutik;15
+464;SDN Iwul 01;15
+465;SDN Iwul 02;15
+466;SDN Iwul 03;15
+467;SDN Jati Jaya;15
+468;SDN KH. Dewantara 01;15
+469;SDN KH. Dewantara 02;15
+470;SDN Lebak Wangi;15
+471;SDN Mekar Wangi;15
+472;SDN Pamagar Sari;15
+473;SDN Parung 01;15
+474;SDN Parung 02 ;15
+475;SDN Parung 03;15
+476;SDN Parung 04 ;15
+477;SDN Tajur ;15
+478;SDN Tunas Mekar;15
+479;SDN Waru 01;15
+480;SDN Waru 02;15
+481;SDN Waru 03;15
+482;SDN Waru 04;15
+483;SDN Waru 05;15
+484;SDN Waru Jaya;15
+485;SDN Beringin ;16
+486;SDN Cempaka;16
+487;SDN Cibadung 01;16
+488;SDN Cibadung 02;16
+489;SDN Cibadung 03;16
+490;SDN Cibinong 01;16
+491;SDN Cibinong 02;16
+492;SDN Cibinong 03;16
+493;SDN Cidokom 01;16
+494;SDN Cidokom 02;16
+495;SDN Cidokom 03;16
+496;SDN Curug 01;16
+497;SDN Curug 02;16
+498;SDN Flamboyan;16
+499;SDN Flamboyan  ;16
+500;SDN Gunung Sindur 01;16
+501;SDN Gunung Sindur 02;16
+502;SDN Gunung Sindur 03;16
+503;SDN Hanjuang;16
+504;SDN Jampang 01;16
+505;SDN Jampang 02;16
+506;SDN Kenanga;16
+507;SDN Kenari;16
+508;SDN KH. Dewantoro;16
+509;SDN Melati;16
+510;SDN Mulyasari;16
+511;SDN Neglasari;16
+512;SDN Nusa Indah;16
+513;SDN Pabuaran 01;16
+514;SDN Pabuaran 02;16
+515;SDN Padurenan;16
+516;SDN Pangasinan 02;16
+517;SDN Rawa Kalong 02;16
+518;SDN Rawa Kalong 03;16
+519;SDN Rawa Kalong 05;16
+520;SDN Seroja;16
+521;SDN Tanjung;16
+522;SDN Teratai Mas;16
+523;SDN Bojong 01;17
+524;SDN Bojong 02;17
+525;SDN Bojong 03;17
+526;SDN Bojong 04;17
+527;SDN Dewi Sartika;17
+528;SDN Jampang 01;17
+529;SDN Jampang 02;17
+530;SDN Jampang 03 ;17
+531;SDN Jampang 04;17
+532;SDN Jampang 05;17
+533;SDN Jampang Hambulu;17
+534;SDN Jampang Pondok Udik;17
+535;SDN Kemang 01;17
+536;SDN Kemang 02;17
+537;SDN Kemang Kiara;17
+538;SDN Lumbung;17
+539;SDN Pabuaran 01;17
+540;SDN Pabuaran 02;17
+541;SDN Pabuaran 03;17
+542;SDN Pabuaran 04;17
+543;SDN Parakan Salak;17
+544;SDN Tegal 01;17
+545;SDN Tegal 02;17
+546;SDN Tegal 03;17
+547;SDN Tegal 04;17
+548;SDN Tegal Jaya 01;17
+549;SDN Tegal Jaya 02;17
+550;SDN Bambu Kuning;18
+551;SDN Bojonggede 01;18
+552;SDN Bojonggede 02;18
+553;SDN Bojonggede 03;18
+554;SDN Bojonggede 04;18
+555;SDN Bojonggede 05;18
+556;SDN Bojonggede 06;18
+557;SDN Bojonggede 07;18
+558;SDN Cimanggis 01;18
+559;SDN Cimanggis 02;18
+560;SDN Cimanggis 03;18
+561;SDN Citayam 03;18
+562;SDN Kedungwaringin 01;18
+563;SDN Kedungwaringin 02;18
+564;SDN Kedungwaringin 03;18
+565;SDN Kedungwaringin 04;18
+566;SDN Kedungwaringin 05;18
+567;SDN Pabuaran 01;18
+568;SDN Pabuaran 02 ;18
+569;SDN Pabuaran 03;18
+570;SDN Raga Jaya;18
+571;SDN Surakarya 01;18
+572;SDN Surakarya 02;18
+573;SDN Surakarya 03;18
+574;SDN Angsana 01;19
+575;SDN Angsana 02;19
+576;SDN Babakan Panjang;19
+577;SDN Bantar Endah;19
+578;SDN Barengkok 01;19
+579;SDN Barengkok 02;19
+580;SDN Cengal Sirna;19
+581;SDN Cianten 01;19
+582;SDN Cianten 02;19
+583;SDN Cibata;19
+584;SDN Cibeber;19
+585;SDN Cikuray;19
+586;SDN Darmabakti;19
+587;SDN Gunung Sodong 01;19
+588;SDN Gunung Sodong 02;19
+589;SDN Harapan Mulya;19
+590;SDN Hegarmanah;19
+591;SDN Hegarsari 01;19
+592;SDN Hegarsari 02;19
+593;SDN Kampung Tengah;19
+594;SDN Karehkel 01;19
+595;SDN Karehkel 02;19
+596;SDN Karehkel 03;19
+597;SDN Karehkel 04;19
+598;SDN Karyabakti ;19
+599;SDN Karyasari 01;19
+600;SDN Karyasari 02;19
+601;SDN Karyasari 03;19
+602;SDN Kracak 01;19
+603;SDN Kracak 02;19
+604;SDN Leuwiliang 01;19
+605;SDN Leuwiliang 02;19
+606;SDN Leuwiliang 03;19
+607;SDN Leuwiliang 04;19
+608;SDN Leuwiliang 05;19
+609;SDN Leuwimekar;19
+610;SDN Lindung Alam;19
+611;SDN Melati;19
+612;SDN Mulyasari;19
+613;SDN Mutiara;19
+614;SDN Neglasari ;19
+615;SDN Pabangbon 01;19
+616;SDN Pabangbon 02;19
+617;SDN Purasari 01;19
+618;SDN Purasari 02;19
+619;SDN Puraseda 01;19
+620;SDN Riung Gunung;19
+621;SDN Sinar Karya Baru;19
+622;SDN Suka Mulya;19
+623;SDN Sukaasih 01;19
+624;SDN Sukaasih 02;19
+625;SDN Sukamahi;19
+626;SDN Sukamaju;19
+627;SDN Sukamanah;19
+628;SDN Sukamulya;19
+629;SDN Tanjung Sari 01;19
+630;SDN Tanjung Sari 02;19
+631;SDN Wanakarya;19
+632;SDN Waringin;19
+633;SDN Bengle;20
+634;SDN Benteng 01;20
+635;SDN Bojong;20
+636;SDN Bojong Jengkol 01;20
+637;SDN Bojong Jengkol 02;20
+638;SDN Bojong Jengkol 03;20
+639;SDN Bojong Rangkas 01;20
+640;SDN Bojong Rangkas 02;20
+641;SDN Bojong Rangkas 03;20
+642;SDN Bojong Rangkas 04;20
+643;SDN Bojong Rangkas 05;20
+644;SDN Ciampea 01;20
+645;SDN Ciampea 02;20
+646;SDN Ciampea 03;20
+647;SDN Ciampea 05;20
+648;SDN Ciampea Udik 01;20
+649;SDN Ciampea Udik 02;20
+650;SDN Ciampea Udik 03;20
+651;SDN Cibadak 01;20
+652;SDN Cibadak 02;20
+653;SDN Cibanteng;20
+654;SDN Cibanteng 02;20
+655;SDN Cibuntu 01;20
+656;SDN Cibuntu 02;20
+657;SDN Cibuntu 03;20
+658;SDN Cicadas 01;20
+659;SDN Cicadas 02;20
+660;SDN Cicadas 03;20
+661;SDN Cihideung Ilir 01;20
+662;SDN Cihideung Ilir 03;20
+663;SDN Cihideung Ilir 04;20
+664;SDN Cihideung Ilir 05;20
+665;SDN Cihideung Ilir 06;20
+666;SDN Cihideung Udik 01;20
+667;SDN Cihideung Udik 02;20
+668;SDN Cihideung Udik 03;20
+669;SDN Cihideung Udik 04;20
+670;SDN Cinangka 01;20
+671;SDN Cinangka 02 ;20
+672;SDN Cinangka 03;20
+673;SDN Cinangka 04;20
+674;SDN Dukuh;20
+675;SDN Gunung Leutik;20
+676;SDN Lebakwangi;20
+677;SDN Tegal Waru 01;20
+678;SDN Tegal Waru 02;20
+679;SDN Tegal Waru 03;20
+680;SDN Batu Tulis ;21
+681;SDN Cemplang 01;21
+682;SDN Cemplang 02;21
+683;SDN Cemplang 03;21
+684;SDN Cemplang 04;21
+685;SDN Ciaruteun Ilir 01;21
+686;SDN Ciaruteun Ilir 02;21
+687;SDN Ciaruteun Ilir 03;21
+688;SDN Ciaruteun Ilir 04;21
+689;SDN Ciaruteun Ilir 05;21
+690;SDN Ciaruteun Udik 02;21
+691;SDN Ciaruteun Udik 03;21
+692;SDN Cibatok 01;21
+693;SDN Cibatok 02;21
+694;SDN Cibatok 03;21
+695;SDN Cibatok 04;21
+696;SDN Cibatok 05;21
+697;SDN Cibatok 06;21
+698;SDN Cibungbulang 01;21
+699;SDN Cijujung 01;21
+700;SDN Cijujung 02;21
+701;SDN Cijujung 03;21
+702;SDN Cijujung 04;21
+703;SDN Cimanggu 01;21
+704;SDN Cimanggu 02;21
+705;SDN Cimanggu 03;21
+706;SDN Cisauk ;21
+707;SDN Dukuh 01;21
+708;SDN Dukuh 02 ;21
+709;SDN Dukuh 03;21
+710;SDN Dukuh 04;21
+711;SDN Dukuh 05;21
+712;SDN Leuweungkolot 01;21
+713;SDN Leuweungkolot 02;21
+714;SDN Leuweungkolot 03;21
+715;SDN Leuweungkolot 05;21
+716;SDN Leuweungkolot 07;21
+717;SDN Situ Ilir 01;21
+718;SDN Situ Ilir 02;21
+719;SDN Situ Udik;21
+720;SDN Warung Saptu;21
+721;SDN Banaraja;22
+722;SDN Ciasihan 01;22
+723;SDN Ciasihan 02;22
+724;SDN Ciasmara 01;22
+725;SDN Ciasmara 02;22
+726;SDN Ciasmara 03;22
+727;SDN Ciasmara 04;22
+728;SDN Ciasmara 05;22
+729;SDN Cibening 01;22
+730;SDN Cibening 02;22
+731;SDN Cibening 03;22
+732;SDN Cibitung Kulon 01;22
+733;SDN Cibitung Kulon 02;22
+734;SDN Cibitung Kulon 03;22
+735;SDN Cibitung Kulon 04;22
+736;SDN Cibitung Kulon 05;22
+737;SDN Cibunian 01;22
+738;SDN Cimayang 01;22
+739;SDN Cimayang 02;22
+740;SDN Cimayang 03;22
+741;SDN Cimayang 04;22
+742;SDN Gunung Bunder 01;22
+743;SDN Gunung Bunder 02;22
+744;SDN Gunung Bunder 03;22
+745;SDN Gunung Bunder 04;22
+746;SDN Gunung Bunder 05;22
+747;SDN Gunung Picung 01;22
+748;SDN Gunung Picung 02;22
+749;SDN Gunung Picung 03;22
+750;SDN Gunung Picung 04;22
+751;SDN Gunung Picung 05;22
+752;SDN Gunung Picung 06;22
+753;SDN Gunung Picung 07;22
+754;SDN Gunung Picung 08;22
+755;SDN Gunung Sari 01;22
+756;SDN Gunung Sari 02;22
+757;SDN Muara 01 ;22
+758;SDN Muara 02;22
+759;SDN Muara 03;22
+760;SDN Pamijahan 01;22
+761;SDN Pamijahan 02;22
+762;SDN Pasarean 01;22
+763;SDN Pasarean 02;22
+764;SDN Ciaul;23
+765;SDN Cibodas 02;23
+766;SDN Cibodas 03;23
+767;SDN Cibodas 04;23
+768;SDN Cibodas 05;23
+769;SDN Cibodas 06;23
+770;SDN Cidokom 01;23
+771;SDN Cidokom 02;23
+772;SDN Cidokom 03;23
+773;SDN Cidokom 04;23
+774;SDN Cidokom 05;23
+775;SDN Cipinang 01;23
+776;SDN Cipinang 02;23
+777;SDN Cipinang 03;23
+778;SDN Cipinang 04 ;23
+779;SDN Cipinang 05;23
+780;SDN Cipinang 06;23
+781;SDN Gobang 01;23
+782;SDN Gobang 03;23
+783;SDN Gobang 04;23
+784;SDN Janala;23
+785;SDN Kadusewu;23
+786;SDN Kampung Sawah 01;23
+787;SDN Kampung Sawah 02;23
+788;SDN Kampung Sawah 03;23
+789;SDN Kampung Sawah 04;23
+790;SDN Kampung Sawah 05;23
+791;SDN Kertajaya 02;23
+792;SDN Kertajaya 03;23
+793;SDN Kertajaya 04;23
+794;SDN Kertajaya 05;23
+795;SDN Kertajaya 06;23
+796;SDN Leuwibatu 01 ;23
+797;SDN Leuwibatu 02;23
+798;SDN Leuwibatu 03;23
+799;SDN Leuwibatu 04;23
+800;SDN Leuwibatu 05;23
+801;SDN Leuwibatu 06;23
+802;SDN Leuwihalang;23
+803;SDN Leuwiranji 01;23
+804;SDN Leuwiranji 02;23
+805;SDN Leuwiranji 03;23
+806;SDN Leuwiranji 04;23
+807;SDN Leuwiranji 05;23
+808;SDN Malahpar;23
+809;SDN Rabak 01;23
+810;SDN Rabak 02;23
+811;SDN Rumpin 01;23
+812;SDN Rumpin 02;23
+813;SDN Rumpin 03;23
+814;SDN Sampay;23
+815;SDN Sukasari 01;23
+816;SDN Sukasari 02;23
+817;SDN Sukasari 03;23
+818;SDN Sukasari 04;23
+819;SDN Sukasari 05;23
+820;SDN Tamansari 01;23
+821;SDN Tamansari 02;23
+822;SDN Tamansari 03;23
+823;SDN Tamansari 04;23
+824;SDN Tamansari 05;23
+825;SDN Tambiliung ;23
+826;SDN Bagoang 01;24
+827;SDN Bagoang 02;24
+828;SDN Bagoang 03;24
+829;SDN Barengkok 01;24
+830;SDN Barengkok 02;24
+831;SDN Barengkok 03;24
+832;SDN Cigelung;24
+833;SDN Cikopomayak 01;24
+834;SDN Cikopomayak 02;24
+835;SDN Cikopomayak 03;24
+836;SDN Cikopomayak 04;24
+837;SDN Cikopomayak 06;24
+838;SDN Curug 01;24
+839;SDN Curug 02;24
+840;SDN Curug 03;24
+841;SDN Curug 04;24
+842;SDN Curug 05;24
+843;SDN Curug 06;24
+844;SDN Jasinga 01;24
+845;SDN Jasinga 02;24
+846;SDN Jasinga 03;24
+847;SDN Jasinga 04;24
+848;SDN Jasinga 06;24
+849;SDN Jasinga 07;24
+850;SDN Jugalajaya;24
+851;SDN Kalong Sawah 01;24
+852;SDN Kalong Sawah 02;24
+853;SDN Kalong Sawah 03;24
+854;SDN Kalong Sawah 04;24
+855;SDN Kalong Sawah 05;24
+856;SDN Kalong Sawah 06;24
+857;SDN Kalong Sawah 07;24
+858;SDN Kembang Kuning;24
+859;SDN Koleang 01;24
+860;SDN Koleang 02;24
+861;SDN Koleang 03;24
+862;SDN Koleang 04;24
+863;SDN Koleang 05;24
+864;SDN Kolenag 06;24
+865;SDN Muncang;24
+866;SDN Neglasari;24
+867;SDN Pangaur 01;24
+868;SDN Pangaur 02;24
+869;SDN Pangaur 03;24
+870;SDN Pangradin 01;24
+871;SDN Pangradin 02;24
+872;SDN Pangradin 03;24
+873;SDN Pangradin 04;24
+874;SDN Pangradin 05;24
+875;SDN Parung Kembang;24
+876;SDN Puspasari;24
+877;SDN Samprok;24
+878;SDN Sipak 01 ;24
+879;SDN Sipak 02;24
+880;SDN Sipak 03;24
+881;SDN Sukamanah 01;24
+882;SDN Sukamanah 02;24
+883;SDN Sukamanah 03;24
+884;SDN Sukamanah 04;24
+885;SDN Cibunar 01;25
+886;SDN Cibunar 02;25
+887;SDN Cibunar 03;25
+888;SDN Cibunar 04;25
+889;SDN Cikuda 01;25
+890;SDN Cikuda 02;25
+891;SDN Cikuda 03;25
+892;SDN Cikuda 05;25
+893;SDN Dago 01;25
+894;SDN Dago 02;25
+895;SDN Dago 03;25
+896;SDN Dago 04;25
+897;SDN Dago 05;25
+898;SDN Gintung Cilejet 01;25
+899;SDN Gintung Cilejet 02;25
+900;SDN Gintung Cilejet 03;25
+901;SDN Gintung Cilejet 04;25
+902;SDN Gorowong 01;25
+903;SDN Gorowong 02;25
+904;SDN Gorowong 03;25
+905;SDN Gorowong 04;25
+906;SDN Gorowong 05;25
+907;SDN Jagabaya 01 ;25
+908;SDN Jagabaya 02;25
+909;SDN Jagabaya 03;25
+910;SDN Jagabaya 04;25
+911;SDN Jagabaya 05;25
+912;SDN Jagabita 01;25
+913;SDN Jagabita 02;25
+914;SDN Jagabita 03;25
+915;SDN Lumpang 01;25
+916;SDN Lumpang 02;25
+917;SDN Lumpang 03;25
+918;SDN Lumpang 04;25
+919;SDN Lumpang 05;25
+920;SDN Parung Panjang 01;25
+921;SDN Parung Panjang 02;25
+922;SDN Parung Panjang 03;25
+923;SDN Parung Panjang 04;25
+924;SDN Parung Panjang 05;25
+925;SDN Parung Panjang 06;25
+926;SDN Perumnas BP;25
+927;SDN Pingku 01 ;25
+928;SDN Pingku 02;25
+929;SDN Pingku 03;25
+930;SDN Rabak;25
+931;SDN Arca;26
+932;SDN Banda Sari;26
+933;SDN Bandarasi;26
+934;SDN Bantar Karet 01;26
+935;SDN Bantar Karet 02;26
+936;SDN Cadas Leueur;26
+937;SDN Ciguha ;26
+938;SDN Ciketug ;26
+939;SDN Ciparay;26
+940;SDN Cisarua 01;26
+941;SDN Cisarua 02;26
+942;SDN Curug Bitung 01;26
+943;SDN Curug Bitung 02;26
+944;SDN Curug Bitung 03;26
+945;SDN Gunung Dahu;26
+946;SDN Hambaro 01;26
+947;SDN Hambaro 02;26
+948;SDN Hambaro 03;26
+949;SDN Hambaro 04;26
+950;SDN Handayani;26
+951;SDN Kalong Karees;26
+952;SDN Malasari 01;26
+953;SDN Malasari 03 ;26
+954;SDN Malasari 04;26
+955;SDN Malasari 05 ;26
+956;SDN Nanggela;26
+957;SDN Nanggung 01;26
+958;SDN Nunggul;26
+959;SDN Pabangbong;26
+960;SDN Pangkal Jaya;26
+961;SDN Parakan Muncang 01;26
+962;SDN Parakan Muncang 02;26
+963;SDN Parakan Muncang 03;26
+964;SDN Parigi;26
+965;SDN Pasir Eurih;26
+966;SDN Pasir Gintung 01;26
+967;SDN Pasir Gintung 02;26
+968;SDN Pasir Gintung 03;26
+969;SDN Pasir Peuteuy;26
+970;SDN Pasir Sari;26
+971;SDN Rancabakti ;26
+972;SDN Rimba Kencana;26
+973;SDN Sida Mulya;26
+974;SDN Sukamaju;26
+975;SDN Tapos;26
+976;SDN Wates;26
+977;SDN Argapura 01;27
+978;SDN Argapura 02;27
+979;SDN Argapura 03;27
+980;SDN Argapura 04;27
+981;SDN Banyuresmi 01;27
+982;SDN Banyuresmi 02;27
+983;SDN Banyuresmi 03;27
+984;SDN Batujajar 01;27
+985;SDN Batujajar 02;27
+986;SDN Batujajar 03;27
+987;SDN Batujajar 04;27
+988;SDN Bunar 01;27
+989;SDN Bunar 02;27
+990;SDN Bunar 03;27
+991;SDN Bunar 04;27
+992;SDN Ciangger 01 ;27
+993;SDN Ciangger 02;27
+994;SDN Ciangger 03;27
+995;SDN Cibungur;27
+996;SDN Cigowong 01;27
+997;SDN Cigowong 02;27
+998;SDN Cigowong 03;27
+999;SDN Cigudeg 01;27
+1000;SDN Cigudeg 02;27
+1001;SDN Cigudeg 03;27
+1002;SDN Cigudeg 04;27
+1003;SDN Cigudeg 05;27
+1004;SDN Cijambe;27
+1005;SDN Cikawung 01;27
+1006;SDN Cikawung 02;27
+1007;SDN Cilangkap;27
+1008;SDN Cimapag;27
+1009;SDN Ciodeng;27
+1010;SDN Cipangaur;27
+1011;SDN Cipining;27
+1012;SDN Dukuh;27
+1013;SDN Gosali;27
+1014;SDN Kadaung 01;27
+1015;SDN Kadaung 02;27
+1016;SDN Kemang;27
+1017;SDN Lebakwangi 01;27
+1018;SDN Lebakwangi 02;27
+1019;SDN Nunggaherang 01;27
+1020;SDN Nunggaherang 02;27
+1021;SDN Papanggungan;27
+1022;SDN Parakan 03;27
+1023;SDN Pasir Awi;27
+1024;SDN Rengas Jajar;27
+1025;SDN Siranggap;27
+1026;SDN Sirna Asih;27
+1027;SDN Sukamaju 01;27
+1028;SDN Sukamaju 02;27
+1029;SDN Sukamaju 03;27
+1030;SDN Tipar;27
+1031;SDN Babakan 01;28
+1032;SDN Babakan 02;28
+1033;SDN Babakan 03;28
+1034;SDN Babakan 04;28
+1035;SDN Batok 01;28
+1036;SDN Batok 02;28
+1037;SDN Batok 03;28
+1038;SDN Batok 04;28
+1039;SDN Bojong 01;28
+1040;SDN Bojong 02;28
+1041;SDN Bojong 03;28
+1042;SDN Bojong 04;28
+1043;SDN Cilaku 01;28
+1044;SDN Cilaku 02;28
+1045;SDN Cilaku 03;28
+1046;SDN Cilaku 04;28
+1047;SDN Cilaku 05;28
+1048;SDN Cilaku 06;28
+1049;SDN Ciomas 01 ;28
+1050;SDN Ciomas 02;28
+1051;SDN Ciomas 03;28
+1052;SDN Ciomas 04;28
+1053;SDN Singabraja 01;28
+1054;SDN Singabraja 02;28
+1055;SDN Tapos 01;28
+1056;SDN Tapos 02;28
+1057;SDN Tapos 03;28
+1058;SDN Tapos 04;28
+1059;SDN Tegal Pondoh;28
+1060;SDN Tenjo 01;28
+1061;SDN Tenjo 02;28
+1062;SDN Tenjo 03;28
+1063;SDN Tenjo 04;28
+1064;SDN Tenjo 05;28
+1065;SDN Banjar sari 01;29
+1066;SDN Banjar Sari 02;29
+1067;SDN Banjar Waru;29
+1068;SDN Banjar Waru 02;29
+1069;SDN Bendungan 01;29
+1070;SDN Bendungan 02;29
+1071;SDN Bojong Murni;29
+1072;SDN Ciawi 01;29
+1073;SDN Ciawi 02;29
+1074;SDN Ciawi 03;29
+1075;SDN Cibedug 01 ;29
+1076;SDN Cibedug 02;29
+1077;SDN Cibedug 03;29
+1078;SDN Cileungsi 01;29
+1079;SDN Cileungsi 02;29
+1080;SDN Citapen 01;29
+1081;SDN Citapen 02;29
+1082;SDN Citapen 02 ;29
+1083;SDN Jambuluwuk 01;29
+1084;SDN Jambuluwuk 02;29
+1085;SDN Pajajaran 01;29
+1086;SDN Pajajaran 02;29
+1087;SDN Pandansari 01;29
+1088;SDN Pandansari 02;29
+1089;SDN Sindang Sari 02;29
+1090;SDN Teluk Pinang 01;29
+1091;SDN Teluk Pinang 02;29
+1092;SDN Teluk Pinang 03;29
+1093;SDN Batulayang;30
+1094;SDN Cibeureum 01;30
+1095;SDN Cibeureum 02;30
+1096;SDN Cibeureum 03;30
+1097;SDN Cibeureum 04;30
+1098;SDN Ciburial;30
+1099;SDN Cikoneng;30
+1100;SDN Cilember 01;30
+1101;SDN Cilember 02;30
+1102;SDN Cisarua 01;30
+1103;SDN Cisarua 02;30
+1104;SDN Cisarua 03;30
+1105;SDN Cisarua 04;30
+1106;SDN Cisarua 05;30
+1107;SDN Citeko 01;30
+1108;SDN Citeko 02;30
+1109;SDN Citeko 03;30
+1110;SDN Gunung Mas;30
+1111;SDN Jogjogan 01;30
+1112;SDN Jogjogan 02;30
+1113;SDN Kopo 01;30
+1114;SDN Kopo 02;30
+1115;SDN Kopo 03 ;30
+1116;SDN Leuwimalang;30
+1117;SDN Sampay 01;30
+1118;SDN Sampay 02;30
+1119;SDN Tugu Selatan 01;30
+1120;SDN Tugu Selatan 02;30
+1121;SDN Tugu Utara 01;30
+1122;SDN Tugu Utara 02;30
+1123;SDN Cibogo;31
+1124;SDN Cikopo;31
+1125;SDN Cipayung 01;31
+1126;SDN Cipayung 02;31
+1127;SDN Cipayung 03;31
+1128;SDN Cipayung 04;31
+1129;SDN Cipayung 05;31
+1130;SDN Cipayung 06;31
+1131;SDN Cipayung 07;31
+1132;SDN Cipayung Girang 01;31
+1133;SDN Cipayung Girang 02;31
+1134;SDN Cipayung Girang 03;31
+1135;SDN Gadog 01;31
+1136;SDN Gadog 02;31
+1137;SDN Gadog 03;31
+1138;SDN Gadog 04;31
+1139;SDN Gadog 05;31
+1140;SDN Gadog 06;31
+1141;SDN Megamendung 01;31
+1142;SDN Megamendung 02;31
+1143;SDN Megamendung 03;31
+1144;SDN Megamendung 04;31
+1145;SDN Pasir Angin 01;31
+1146;SDN Pasir angin 02;31
+1147;SDN Pasir Angin 03;31
+1148;SDN Pasir Angin 04;31
+1149;SDN Sukabirus;31
+1150;SDN Sukagalih 01;31
+1151;SDN Sukagalih 02;31
+1152;SDN Sukagalih 03;31
+1153;SDN Sukagalih 04;31
+1154;SDN Sukakarya;31
+1155;SDN Sukamahi 01;31
+1156;SDN Sukamahi 02;31
+1157;SDN Sukamaju;31
+1158;SDN Sukamanah 01;31
+1159;SDN Sukamanah 02;31
+1160;SDN Balandongan;32
+1161;SDN Batu Kembar;32
+1162;SDN Caringin 01;32
+1163;SDN Caringin 02;32
+1164;SDN Caringin 03;32
+1165;SDN Cibeling ;32
+1166;SDN Ciherang Pondok;32
+1167;SDN Cikereteg 01;32
+1168;SDN Cikereteg 02;32
+1169;SDN Cikereteg 03;32
+1170;SDN Cimande 01;32
+1171;SDN Cimande 02;32
+1172;SDN Cimande 03;32
+1173;SDN Cimande 04;32
+1174;SDN Cinagara 01;32
+1175;SDN Cinagara 02;32
+1176;SDN Cinagara 03;32
+1177;SDN Cipare;32
+1178;SDN Cipopokol;32
+1179;SDN Curug Deng deng;32
+1180;SDN Lebak Pari;32
+1181;SDN Muara Jaya;32
+1182;SDN Nanggeleng;32
+1183;SDN Pancawati 01;32
+1184;SDN Pancawati 02;32
+1185;SDN Pasir Buncir;32
+1186;SDN Pasir Muncang 01;32
+1187;SDN Pasir Muncang 02;32
+1188;SDN Pasir Tengah;32
+1189;SDN Selaawi;32
+1190;SDN Tangkil 01;32
+1191;SDN Tangkil 02;32
+1192;SDN Tarikolot;32
+1193;SDN Campedak;33
+1194;SDN Cibalung 01;33
+1195;SDN Cibalung 02 ;33
+1196;SDN Cibalung 03;33
+1197;SDN Cihideung;33
+1198;SDN Cijeruk 01;33
+1199;SDN Cijeruk 02;33
+1200;SDN Cipaok;33
+1201;SDN Cipelang 01;33
+1202;SDN Cipelang 02;33
+1203;SDN Cipelang 03;33
+1204;SDN Cipicung 01;33
+1205;SDN Cipicung 02;33
+1206;SDN Cipicung 03;33
+1207;SDN Cipicung 04;33
+1208;SDN Cipicung 05;33
+1209;SDN Geger Bitung;33
+1210;SDN Kawungluwuk;33
+1211;SDN Langen Sari 01;33
+1212;SDN Lengis;33
+1213;SDN Maseng;33
+1214;SDN Palasari 01;33
+1215;SDN Palasari 02;33
+1216;SDN Palasari 03;33
+1217;SDN Pangerasan;33
+1218;SDN Pasir Pogor;33
+1219;SDN Pasir Tengah 01;33
+1220;SDN Pasir Tengah 02;33
+1221;SDN Sukaharja 01;33
+1222;SDN Sukaharja 02;33
+1223;SDN Sukaharja 03;33
+1224;SDN Tajur Halang 01;33
+1225;SDN Tajur Halang 02;33
+1226;SDN Tajur Halang 03;33
+1227;SDN Tajur Halang 04;33
+1228;SDN Tajur Halang 05;33
+1229;SDN Tanjung Sari;33
+1230;SDN Tapos;33
+1231;SDN Ciapus 01;34
+1232;SDN Ciapus 02;34
+1233;SDN Ciapus 03  ;34
+1234;SDN Ciapus 04;34
+1235;SDN Ciapus 05;34
+1236;SDN Ciapus 06;34
+1237;SDN Ciapus 07;34
+1238;SDN Ciapus 08;34
+1239;SDN Ciomas 01;34
+1240;SDN Ciomas 02;34
+1241;SDN Ciomas 03;34
+1242;SDN Ciomas 04;34
+1243;SDN Ciomas 05;34
+1244;SDN Ciomas 06;34
+1245;SDN Ciomas 07;34
+1246;SDN Ciomas 08;34
+1247;SDN Ciomas 09;34
+1248;SDN Kotabatu 01;34
+1249;SDN Kotabatu 02;34
+1250;SDN Kotabatu 03;34
+1251;SDN Kotabatu 04;34
+1252;SDN Kotabatu 05;34
+1253;SDN Kotabatu 06;34
+1254;SDN Kotabatu 07;34
+1255;SDN Kotabatu 08;34
+1256;SDN Kotabatu 09;34
+1257;SDN Laladon 01 ;34
+1258;SDN Laladon 02  ;34
+1259;SDN Laladon 03;34
+1260;SDN Pagelaran 01;34
+1261;SDN Pagelaran 02;34
+1262;SDN Pagelaran 03;34
+1263;SDN Pagelaran 04;34
+1264;SDN Parakan 01;34
+1265;SDN Parakan 02;34
+1266;SDN Parakan 03;34
+1267;SDN Parakan 04  ;34
+1268;SDN Sukamakmur;34
+1269;SDN Taman Pagelaran;34
+1270;SDN Babakan Dramaga 01;35
+1271;SDN Babakan Dramaga 02;35
+1272;SDN Babakan Dramaga 03;35
+1273;SDN Babakan Dramaga 04;35
+1274;SDN Babakan Dramaga 05;35
+1275;SDN Cangkrang  ;35
+1276;SDN Carang Pulang 01;35
+1277;SDN Carang Pulang 02;35
+1278;SDN Ciherang 01;35
+1279;SDN Ciherang 02;35
+1280;SDN Ciherang 04;35
+1281;SDN Cilubang 01;35
+1282;SDN Cilubang 02;35
+1283;SDN Cilubang 04;35
+1284;SDN Cilubang 05 ;35
+1285;SDN Cilubang 06;35
+1286;SDN Manggis;35
+1287;SDN Neglasari 01;35
+1288;SDN Neglasari 02;35
+1289;SDN Neglasari 03;35
+1290;SDN Neglasari 04;35
+1291;SDN Neglasari 05;35
+1292;SDN Pasir Andong;35
+1293;SDN Petir 01;35
+1294;SDN Petir 02;35
+1295;SDN Petir 03 ;35
+1296;SDN Petir 04 ;35
+1297;SDN Petir 05 ;35
+1298;SDN Purwasari 01;35
+1299;SDN Purwasari 02;35
+1300;SDN Sinar Sari;35
+1301;SDN Situ Kaum;35
+1302;SDN Situ Leutik;35
+1303;SDN Situleutik;35
+1304;SDN Tenjosari ;35
+1305;SDN Gadog 01;36
+1306;SDN Gadog 02 ;36
+1307;SDN Gadog 03;36
+1308;SDN Gadog 04;36
+1309;SDN Pasir Angsana 01;36
+1310;SDN Pasir Angsana 02;36
+1311;SDN Pasir Angsana 03;36
+1312;SDN Pasir Angsana 04;36
+1313;SDN Pasireurih 01;36
+1314;SDN Pasireurih 02;36
+1315;SDN Pasireurih 03;36
+1316;SDN Pasireurih 04;36
+1317;SDN Pasireurih 05;36
+1318;SDN Pasireurih 06;36
+1319;SDN Sirnagalih 01;36
+1320;SDN Sirnagalih 02;36
+1321;SDN Sirnagalih 03;36
+1322;SDN Sirnagalih 04;36
+1323;SDN Sirnagalih 05;36
+1324;SDN Sirnagalih 06;36
+1325;SDN Sukaluyu 01 ;36
+1326;SDN Sukaluyu 02;36
+1327;SDN Sukaluyu 03;36
+1328;SDN Sukamantri 01;36
+1329;SDN Sukamantri 02;36
+1330;SDN Sukamantri 03;36
+1331;SDN Tamansari 01;36
+1332;SDN Tamansari 02;36
+1333;SDN Tamansari 03;36
+1334;SDN Bojong 01;37
+1335;SDN Bojong 02;37
+1336;SDN Bojong 03;37
+1337;SDN Cibugis;37
+1338;SDN Cibulakan;37
+1339;SDN Cikahuripan 01;37
+1340;SDN Cikahuripan 02;37
+1341;SDN Cikahuripan 03;37
+1342;SDN Cipari;37
+1343;SDN Kembang Kuning;37
+1344;SDN Klapanunggal 01;37
+1345;SDN Klapanunggal 02;37
+1346;SDN Klapanunggal 03;37
+1347;SDN Klapanunggal 04;37
+1348;SDN Lulut 01;37
+1349;SDN Lulut 02;37
+1350;SDN Lulut 03;37
+1351;SDN Lulut 04;37
+1352;SDN Lulut 05;37
+1353;SDN Lulut 06;37
+1354;SDN Nambo 01;37
+1355;SDN Nambo 02;37
+1356;SDN Nambo 03;37
+1357;SDN Nambo 04;37
+1358;SDN Nambo 05;37
+1359;SDN Narogong;37
+1360;SDN Rawa Ragas;37
+1361;SDN Babakan 01;38
+1362;SDN Babakan 02;38
+1363;SDN Babakan 03;38
+1364;SDN Babakan 04;38
+1365;SDN Bambu Kuning;38
+1366;SDN Bukit Calingcing;38
+1367;SDN Cibentang 01;38
+1368;SDN Cibentang 02;38
+1369;SDN Cibeuteung Muara 01;38
+1370;SDN Cibeuteung Muara 02;38
+1371;SDN Cibeuteung Muara 03;38
+1372;SDN Cibeuteung Muara 04;38
+1373;SDN Cibeuteung Udik 01;38
+1374;SDN Cibeuteung Udik 02;38
+1375;SDN Cibogo 01;38
+1376;SDN Cibogo 02;38
+1377;SDN Ciseeng 01;38
+1378;SDN Ciseeng 02;38
+1379;SDN Kamulyaan ;38
+1380;SDN Karihkil 01;38
+1381;SDN Karihkil 02;38
+1382;SDN Karihkil 03;38
+1383;SDN Karya Bakti;38
+1384;SDN Karya Bangsa;38
+1385;SDN Kuripan 01;38
+1386;SDN Kuripan 02;38
+1387;SDN Parigi;38
+1388;SDN Putat Nutug 01;38
+1389;SDN Putat Nutug 02;38
+1390;SDN Putat Nutug 03;38
+1391;SDN Putat Nutug 04;38
+1392;SDN Singgasana;38
+1393;SDN Srimurni ;38
+1394;SDN Bantar Kambing 01;39
+1395;SDN Bantar Kambing 02;39
+1396;SDN Bantar Kambing 03;39
+1397;SDN Bantar Kambing 04;39
+1398;SDN Bantar Kambing 05;39
+1399;SDN Bantar Kambing 06;39
+1400;SDN Ciheuleut;39
+1401;SDN Margacinta 01;39
+1402;SDN Margacinta 02;39
+1403;SDN Mekar Sari;39
+1404;SDN Pasir Gaok 01;39
+1405;SDN Pasir Gaok 02;39
+1406;SDN Pasir Gaok 03;39
+1407;SDN Pasir Gaok 04;39
+1408;SDN Pasir Gaok 05;39
+1409;SDN Pasir Gaok 06;39
+1410;SDN Rancabungur 01;39
+1411;SDN Rancabungur 02;39
+1412;SDN Rancabungur 03;39
+1413;SDN Rancabungur 04;39
+1414;SDN Banar 01;40
+1415;SDN Banar 02;40
+1416;SDN Bojong;40
+1417;SDN Calingcing;40
+1418;SDN Cileuksa 01;40
+1419;SDN Cileuksa 02;40
+1420;SDN Cileuksa 03;40
+1421;SDN Cileuksa 04;40
+1422;SDN Cileuksa 05;40
+1423;SDN Ciparahu;40
+1424;SDN Cipatat ;40
+1425;SDN Cipeundeuy 01;40
+1426;SDN Cipeundeuy 02;40
+1427;SDN Ciputih;40
+1428;SDN Cisarua 01;40
+1429;SDN Cisarua 02;40
+1430;SDN Kiara Pandak 01;40
+1431;SDN Kiara Pandak 02;40
+1432;SDN Kompa;40
+1433;SDN Pasirmadang 01;40
+1434;SDN Pasirmadang 02;40
+1435;SDN Pasirmadang 03;40
+1436;SDN Pasirmadang 04;40
+1437;SDN Sipayung 01;40
+1438;SDN Sipayung 02;40
+1439;SDN Sukajaya 01;40
+1440;SDN Sukajaya 02;40
+1441;SDN Sukajaya 03;40
+1442;SDN Sukajaya 04;40
+1443;SDN Sukajaya 05;40
+1444;SDN Antajaya 01;41
+1445;SDN Antajaya 02;41
+1446;SDN Bunder Jaya;41
+1447;SDN Cibeureum;41
+1448;SDN Cibungur;41
+1449;SDN Giri Jaya;41
+1450;SDN Giri Padang;41
+1451;SDN Gobang;41
+1452;SDN Mekarsari;41
+1453;SDN Mulya Sari;41
+1454;SDN Neglasari;41
+1455;SDN Nyengcle;41
+1456;SDN Rawasadang;41
+1457;SDN Sampora;41
+1458;SDN Selawangi 05;41
+1459;SDN Sinar Karamat;41
+1460;SDN Sirnarasa 01;41
+1461;SDN Sirnarasa 02;41
+1462;SDN Sukarasa 01;41
+1463;SDN Sukarasa 02;41
+1464;SDN Sukasari 01;41
+1465;SDN Tanjung Rasa;41
+1466;SDN Tanjung Sari 01;41
+1467;SDN Tanjung sari 02;41
+1468;SDN Tanjung Sari 03;41
+1469;SDN Tapos;41
+1470;SDN Wangun;41
+1471;SDN Citayam 05;42
+1472;SDN Kalisuren 01;42
+1473;SDN Kalisuren 02;42
+1474;SDN Kandang Panjang 01;42
+1475;SDN Kandang Panjang 02;42
+1476;SDN Kandang Panjang 03;42
+1477;SDN Kartika Sejahtera 01;42
+1478;SDN Kartika Sejahtera 02;42
+1479;SDN Nanggerang 01;42
+1480;SDN Nanggerang 02;42
+1481;SDN Ragamukti;42
+1482;SDN Sasak Panjang 01;42
+1483;SDN Sasak Panjang 02;42
+1484;SDN Sukmajaya;42
+1485;SDN Sukmajaya ;42
+1486;SDN Tonjong 01;42
+1487;SDN Tonjong 02;42
+1488;SDN Tonjong 03 ;42
+1489;SDN Babakan;43
+1490;SDN Batukarut;43
+1491;SDN Bojong Kiharib;43
+1492;SDN Ciadeg 01;43
+1493;SDN Ciadeg 02;43
+1494;SDN Ciadeg 03;43
+1495;SDN Ciadeg 04;43
+1496;SDN Ciadeg 05;43
+1497;SDN Ciadeg 06;43
+1498;SDN Cibandawa;43
+1499;SDN Cibogo;43
+1500;SDN Ciburayut 01;43
+1501;SDN Ciburayut 02;43
+1502;SDN Ciburuy ;43
+1503;SDN Cigombong 01;43
+1504;SDN Cigombong 02;43
+1505;SDN Cigombong 03;43
+1506;SDN Cigombong 04;43
+1507;SDN Cigombong 05;43
+1508;SDN Cijambu;43
+1509;SDN Ciletuh ;43
+1510;SDN Cipetir 01;43
+1511;SDN Cipetir 02;43
+1512;SDN Cisalada 01;43
+1513;SDN Cisalada 02;43
+1514;SDN Citiis;43
+1515;SDN Cukanggaleuh;43
+1516;SDN Kilenjong;43
+1517;SDN Lemah Duhur;43
+1518;SDN Palalangon;43
+1519;SDN Pangarakan 01;43
+1520;SDN Pangarakan 02;43
+1521;SDN Panyarang;43
+1522;SDN Pasir Jawa 01;43
+1523;SDN Pasir Jawa 02;43
+1524;SDN Selaawi 01;43
+1525;SDN Selaawi 02;43
+1526;SDN Siliwangi;43
+1527;SDN Sindang Laya;43
+1528;SDN Sindang Sari;43
+1529;SDN Srogol 01;43
+1530;SDN Srogol 02;43
+1531;SDN Srogol 03;43
+1532;SDN Sukamanah;43
+1533;SDN Tugujaya 01;43
+1534;SDN Tugujaya 02;43
+1535;SDN Argapuri;44
+1536;SDN Babakan Sadeng 01;44
+1537;SDN Babakan Sadeng 02;44
+1538;SDN Batu Dua ;44
+1539;SDN Cigarung;44
+1540;SDN Cikamarang;44
+1541;SDN Cimandirasa;44
+1542;SDN Cimanggu;44
+1543;SDN Cisaranten;44
+1544;SDN Kali Pasir;44
+1545;SDN Kalong 01;44
+1546;SDN Kalong 02;44
+1547;SDN Kalong 03;44
+1548;SDN Kalong 04;44
+1549;SDN Kalong Jayamarni;44
+1550;SDN Legok Dadap;44
+1551;SDN Leuwisadeng;44
+1552;SDN Pabuaran;44
+1553;SDN Pamungguan;44
+1554;SDN Perintis;44
+1555;SDN Sadeng 01;44
+1556;SDN Sadeng 02;44
+1557;SDN Sadeng kolot;44
+1558;SDN Sibanteng 01;44
+1559;SDN Sibanteng 02;44
+1560;SDN Sinarjaya;44
+1561;SDN Sindang Wangi;44
+1562;SDN Sukajadi;44
+1563;SDN Sukamahi;44
+1564;SDN Cibitung 01;45
+1565;SDN Cibitung 02;45
+1566;SDN Cibitung 03;45
+1567;SDN Cibitung 04;45
+1568;SDN Cinangneng 01;45
+1569;SDN Cinangneng 02;45
+1570;SDN Cinangneng 03;45
+1571;SDN Gunung Malang 01;45
+1572;SDN Gunung Malang 02;45
+1573;SDN Sinarwangi;45
+1574;SDN Situdaun 01;45
+1575;SDN Situdaun 02;45
+1576;SDN Tapos 01;45
+1577;SDN Tapos 02;45
+1578;SDN Tapos 03;45
+1579;SDN Tapos 04;45
+1580;SDN Tegal Langkap 01;45
+1581;SDN Tegal Langkap 02;45
+1582;SDN Tenjolaya;45
+1583;SMPN 1 Cibinong;47
+1584;SMPN 2 Cibinong;47
+1585;SMPN 3 Cibinong;47
+1586;SMPN 4 Cibinong;47
+1587;SMPN 1 Gunung Putri;47
+1588;SMPN 2 Gunung Putri ;47
+1589;SMPN 3 Gunung Putri;47
+1590;SMPN 1 Citeureup;47
+1591;SMPN 2 Citeureup;47
+1592;SMPN 3 Citeureup;47
+1593;SMPN 1 Sukaraja;47
+1594;SMPN 2 Sukaraja;47
+1595;SMPN 1 Babakan Madang;47
+1596;SMPN 1 Jonggol;47
+1597;SMPN 2 Jonggol;47
+1598;SMPN Satu Atap 1 Jonggol;47
+1599;SMPN 1 Cileungsi;47
+1600;SMPN 2 Cileungsi;47
+1601;SMPN 3 Cileungsi;47
+1602;SMPN 1 Cariu;47
+1603;SMPN 2 Cariu;47
+1604;SMPN Satu Atap 2 Cariu;47
+1605;SMPN Satu Atap 1 Cariu;47
+1606;SMPN 1 Sukamakmur;47
+1607;SMPN 2 Sukamakmur;47
+1608;SMPN 3 Sukamakmur;47
+1609;SMPN 1 Parung  ;47
+1610;SMPN 2 Parung;47
+1611;SMPN 1 Gunung Sindur;47
+1612;SMPN 2 Gunung Sindur;47
+1613;SMPN 3 Gunung Sindur;47
+1614;SMPN 1 Kemang;47
+1615;SMPN 2 Kemang;47
+1616;SMPN 1 Bojonggede;47
+1617;SMPN 2 Bojonggede;47
+1618;SMPN 1 Leuwiliang;47
+1619;SMPN 2 Leuwiliang;47
+1620;SMPN 3 Leuwiliang;47
+1621;SMPN 4 Leuwiliang;47
+1622;SMPN Satu Atap 1 Leuwiliang;47
+1623;SMPN 1 Ciampea;47
+1624;SMPN 1 Cibungbulang;47
+1625;SMPN 2 Cibungbulang;47
+1626;SMPN 3 Cibungbulang;47
+1627;SMPN 1 Pamijahan;47
+1628;SMPN 1 Rumpin;47
+1629;SMPN 2 Rumpin;47
+1630;SMPN 1 Jasinga;47
+1631;SMPN 2 Jasinga;47
+1632;SMPN 3 Jasinga;47
+1633;SMPN Satu Atap 1 Jasinga;47
+1634;SMPN Satu Atap 2 Jasinga;47
+1635;SMPN Satu Atap 3 Jasinga;47
+1636;SMPN 1 Parung Panjang;47
+1637;SMPN 2 Parung Panjang;47
+1638;SMPN 3 Parung Panjang;47
+1639;SMPN 4 Parung Panjang;47
+1640;SMPN Satu Atap 1 Parung Panjang;47
+1641;SMPN 1 Nanggung;47
+1642;SMPN Satu Atap 1 Nanggung;47
+1643;SMPN 1 Cigudeg;47
+1644;SMPN 2 Cigudeg;47
+1645;SMPN Satu Atap 1 Cigudeg;47
+1646;SMPN 1 Tenjo;47
+1647;SMPN 2 Tenjo;47
+1648;SMPN 3 Tenjo;47
+1649;SMPN Satu Atap 1 Tenjo;47
+1650;SMPN 1 Ciawi;47
+1651;SMPN 2 Ciawi;47
+1652;SMPN 3 Ciawi;47
+1653;SMPN 1 Cisarua;47
+1654;SMPN 1 Megamendung;47
+1655;SMPN 2 Megamendung;47
+1656;SMPN 1 Caringin;47
+1657;SMPN Satu Atap 1 caringin;47
+1658;SMPN 1 Cijeruk;47
+1659;SMPN 1 Ciomas;47
+1660;SMPN 2 Ciomas;47
+1661;SMPN 1 Dramaga;47
+1662;SMPN 2 Dramaga;47
+1663;SMPN 1 Tamansari;47
+1664;SMPN 2 Tamansari;47
+1665;SMPN 1 Klapanunggal;47
+1666;SMPN 1 Ciseeng;47
+1667;SMPN 1 Ciseeng ;47
+1668;SMPN 2 Ciseeng;47
+1669;SMPN 1 Rancabungur;47
+1670;SMPN 1 Sukajaya;47
+1671;SMPN Satu Atap 1 Sukajaya;47
+1672;SMPN 1 Tanjungsari;47
+1673;SMPN 2 Tanjungsari;47
+1674;SMPN 1 Tajurhalang;47
+1675;SMPN 1 Cigombong;47
+1676;SMPN 2 Cigombong;47
+1677;SMPN 1 Leuwisadeng;47
+1678;SMPN 2 Leuwisadeng;47
+1679;SMPN Satu Atap 1 Leuwisadeng ;47
+1680;SMPN 1 Tenjolaya;47
+1681;SMAN 1 Cibinong;47
+1682;SMAN 2 Cibinong;47
+1683;SMAN 3 Cibinong;47
+1684;SMAN 1 Gunung Putri;47
+1685;SMAN 2 Gunung Putri;47
+1686;SMAN 1 Citeureup;47
+1687;SMAN 1 Sukaraja;47
+1688;SMAN 1 Babakan Madang;47
+1689;SMAN 1 Jonggol;47
+1690;SMAN 1 Cileungsi;47
+1691;SMAN 1 Cariu;47
+1692;SMAN 1 Sukamakmur;47
+1693;SMAN 1 Parung;47
+1694;SMAN 1 Gunung Sindur;47
+1695;SMAN 1 Leuwiliang;47
+1696;SMAN 1 Ciampea;47
+1697;SMAN 1 Cibungbulang;47
+1698;SMAN 1 Pamijahan;47
+1699;SMAN 1 Rumpin;47
+1700;SMAN 1 Jasinga;47
+1701;SMAN 1 Parung Panjang;47
+1702;SMAN 1 Nanggung;47
+1703;SMAN 1 Cigudeg;47
+1704;SMAN 1 Tenjo;47
+1705;SMAN 1 Ciawi;47
+1706;SMAN 1 Cisarua;47
+1707;SMAN 1 Megamendung;47
+1708;SMAN 1 Caringin;47
+1709;SMAN 1 Cijeruk;47
+1710;SMAN 1 Ciomas;47
+1711;SMAN 1 Dramaga;47
+1712;SMAN 1 Tamansari;47
+1713;SMAN 1 Klapanunggal;47
+1714;SMAN 1 Ciseeng;47
+1715;SMAN 1 Rancabungur;47
+1716;SMAN 1 Sukajaya;47
+1717;SMAN 1 Tajurhalang;47
+1718;SMAN 1 Cigombong;47
+1719;SMKN 1 Cibinong;47
+1720;SMKN 1 Gunung Putri;47
+1721;SMKN 1 Cariu;47
+1722;SMKN 1 Gunung Sindur;47
+1723;SMKN 1 Bojonggede;47
+1724;SMKN 1 Leuwiliang;47
+1725;SMKN 1 Cisarua;47
+1726;SMKN 1 Ciomas;47
+1727;SMA PGRI Cibinong;47
+1728;SMK PGRI 1 Cibinong;47
+1729;SMP Al-Nur Cibinong;47
+1730;SMP PGRI 1 Cibinong;47
+1731;TK Al Nur;6
+1732;TK Kartika XI - 03;6
+1733;TK Lingga;6
+1734;TK PGRI HandayaniCibinong;6
+1735;TK Taman Rejeki;6
+1736;SMK (BM) PGRI Citeureup;47
+1737;SMK PGRI Citeureup;47
+1738;TK Karya Mukti;8
+1739;TK PGRI Ketilang;8
+1740;SMP Sejatera 1 Sukaraja;47
+1741;TK Estetika;9
+1742;TK Kartika XII - 02;9
+1743;TK Kemala Bhayangkari V;9
+1744;SMK Otista Jongol;47
+1745;TK Nurul Fajar;11
+1746;TK Pertiwi;11
+1747;TK Pertiwi;13
+1748;SMP Islam Parung;47
+1749;TK Bina Ilmu;15
+1750;TK Alkautsar;16
+1751;TK Pertiwi;16
+1752;SMK Penerbangan Angkasa Kemang;47
+1753;TK Permata;17
+1754;SMA PGRI Leuwiliang;47
+1755;TK Islam Nurmala;19
+1756;SMK Pelita Ciampea;47
+1757;TK PGRI Dian Cempala;20
+1758;TK Sanur;20
+1759;SMP Taman Islam Cibungbulang;47
+1760;TK Dharma Wanita;25
+1761;SMA PGRI Ciawi;47
+1762;SMK Amal Mulia 2;47
+1763;SMP PGRI  Ciawi;47
+1764;SMP PGRI Ciawi;47
+1765;SMP PGRI Ciawi;47
+1766;TK Periska Tani;29
+1767;TK Perisna;29
+1768;TK Pertiwi;29
+1769;TK Al Barokah;30
+1770;TK Melati;31
+1771;TK Bina Siwi;34
+1772;TK Kartika III - 04;34
+1773;TK Kartika XIII - 07;34
+1774;TK Purnama;34
+1775;TK Tunas Sejahtera;34
+1776;SMA Kornita Dramaga;47
+1777;TK Anggraini;42
+1778;SMP PGRI Cigombong;47
+1779;TK Kemala Bhayangkari V;43
+1780;TK Pertiwi;43
+1781;UPT PAUD, TK, DIKDAS dan DIKMEN I Cibinong;6
+1782;UPT PAUD, TK, DIKDAS dan DIKMEN II Gunung Putri;7
+1783;UPT PAUD, TK, DIKDAS dan DIKMEN III Citeureup;8
+1784;UPT PAUD, TK, DIKDAS dan DIKMEN IV Sukaraja;9
+1785;UPT PAUD, TK, DIKDAS dan DIKMEN V Babakan Madang;10
+1786;UPT PAUD, TK, DIKDAS dan DIKMEN VI Jonggol;11
+1787;UPT PAUD, TK, DIKDAS dan DIKMEN VII Cileungsi;12
+1788;UPT PAUD, TK, DIKDAS dan DIKMEN VIII Cariu;13
+1789;UPT PAUD, TK, DIKDAS dan DIKMEN IX Sukamakmur;14
+1790;UPT PAUD, TK, DIKDAS dan DIKMEN X Parung;15
+1791;UPT PAUD, TK, DIKDAS dan DIKMEN XI Gunung Sindur;16
+1792;UPT PAUD, TK, DIKDAS dan DIKMEN XII Kemang;17
+1793;UPT PAUD, TK, DIKDAS dan DIKMEN XIII Bojonggede;18
+1794;UPT PAUD, TK, DIKDAS dan DIKMEN XIV Leuwiliang;19
+1795;UPT PAUD, TK, DIKDAS dan DIKMEN XV Ciampea;20
+1796;UPT PAUD, TK, DIKDAS dan DIKMEN XVI Cibungbulang;21
+1797;UPT PAUD, TK, DIKDAS dan DIKMEN XVII Pamijahan;22
+1798;UPT PAUD, TK, DIKDAS dan DIKMEN XVIII Rumpin;23
+1799;UPT PAUD, TK, DIKDAS dan DIKMEN XIX Jasinga;24
+1800;UPT PAUD, TK, DIKDAS dan DIKMEN XX Parung Panjang;25
+1801;UPT PAUD, TK, DIKDAS dan DIKMEN XXI Nanggung;26
+1802;UPT PAUD, TK, DIKDAS dan DIKMEN XXII Cigudeg;27
+1803;UPT PAUD, TK, DIKDAS dan DIKMEN XXIII Tenjo;28
+1804;UPT PAUD, TK, DIKDAS dan DIKMEN XXIV Ciawi;29
+1805;UPT PAUD, TK, DIKDAS dan DIKMEN XXV Cisarua;30
+1806;UPT PAUD, TK, DIKDAS dan DIKMEN XXVI Megamendung;31
+1807;UPT PAUD, TK, DIKDAS dan DIKMEN XXVII Caringin;32
+1808;UPT PAUD, TK, DIKDAS dan DIKMEN XXVIII Cijeruk;33
+1809;UPT PAUD, TK, DIKDAS dan DIKMEN XXIX Ciomas;34
+1810;UPT PAUD, TK, DIKDAS dan DIKMEN XXX Dramaga;35
+1811;UPT PAUD, TK, DIKDAS dan DIKMEN XXXI Tamansari;36
+1812;UPT PAUD, TK, DIKDAS dan DIKMEN XXXII Klapanunggal;37
+1813;UPT PAUD, TK, DIKDAS dan DIKMEN XXXIII Ciseeng;38
+1814;UPT PAUD, TK, DIKDAS dan DIKMEN XXXIV Rancabungur;39
+1815;UPT PAUD, TK, DIKDAS dan DIKMEN XXXV Sukajaya;40
+1816;UPT PAUD, TK, DIKDAS dan DIKMEN XXXVI Tanjungsari;41
+1817;UPT PAUD, TK, DIKDAS dan DIKMEN XXXVII Tajurhalang;42
+1818;UPT PAUD, TK, DIKDAS dan DIKMEN XXXVIII Cigombong;43
+1819;UPT PAUD, TK, DIKDAS dan DIKMEN XXXIX Leuwisadeng;44
+1820;UPT PAUD, TK, DIKDAS dan DIKMEN XL Tenjolaya;45
+1821;UPT Sanggar Kegiatan Belajar;46

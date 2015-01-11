@@ -17,6 +17,11 @@
             </column>
             <column name="name" type="varchar(255)"/>
         </createTable>
+
+        <loadData encoding="UTF-8"
+                  file="config/liquibase/organizations.csv"
+                  separator=";"
+                  tableName="T_ORGANIZATION"/>
         
     </changeSet>
 </databaseChangeLog>

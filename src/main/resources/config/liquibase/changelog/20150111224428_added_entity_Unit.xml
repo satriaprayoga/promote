@@ -24,5 +24,7 @@
                                  constraintName="fk_unit_organization_id"
                                  referencedColumnNames="id"
                                  referencedTableName="T_ORGANIZATION"/>
+        <loadData encoding="UTF-8" file="config/liquibase/units.csv"
+            separator=";" tableName="T_UNIT" />
     </changeSet>
 </databaseChangeLog>
